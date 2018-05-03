@@ -1,0 +1,3 @@
+2018/05/03 01:46:55 [emerg] 1#0: unknown directive "fastcgi_split_info" in /etc/nginx/sites-enabled/symfony:15
+2018/05/03 01:47:43 [emerg] 1#0: unknown directive "fastcgi_split_info" in /etc/nginx/sites-enabled/symfony:15
+2018/05/03 01:49:09 [emerg] 1#0: unexpected "}" in /etc/nginx/sites-enabled/symfony:23
